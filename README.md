@@ -1,7 +1,7 @@
 # Gen-AI-App-Deep-Seek-R1
 A locally run Streamlit-based machine learning assistant built using LangChain and the DeepSeek R1 model via Ollama. Offers real-time ML debugging, code generation, and support with full data privacy.
 
-![demo](link-to-your-video-or-gif)
+![demo]([link-to-your-video-or-gif](https://www.linkedin.com/posts/mubashir-ul-hassan_machinelearning-langchain-streamlit-activity-7320548489665347584-zIMo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdI9vMB1c3F3KHIkcvCH_eAEolcHbIjrzE))
 
 ## 🚀 Features
 
